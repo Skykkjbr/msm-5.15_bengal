@@ -36,6 +36,10 @@ if test -z "$KBUILD_BUILD_HOST"; then
 	LINUX_COMPILE_HOST=`uname -n`
 else
 	LINUX_COMPILE_HOST=$KBUILD_BUILD_HOST
+
+LINUX_COMPILE_BY="tapasuser"
+LINUX_COMPILE_HOST="arch_linux"
+
 fi
 
 UTS_VERSION="#$VERSION"

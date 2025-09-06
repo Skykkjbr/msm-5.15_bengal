@@ -1,2 +1,2 @@
-DEFCONFIG=gki_defconfig
+DEFCONFIG=minimal_defconfig
 

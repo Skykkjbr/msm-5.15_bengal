@@ -4,7 +4,7 @@ MinimalKernel is a minimalist, optimized and overclocked kernel designed for max
 
 ## Supported Devices
 
--Xiaomi Xun
+- Xiaomi Xun
 - Xiaomi Sapphire
 - Xiaomi Topaz
 

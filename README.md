@@ -1,21 +1,21 @@
 # MinimalKernel - Release: Obanai
 
-MinimalKernel é um kernel minimalista, otimizado e overclocked, projetado para máxima eficiência e desempenho em dispositivos Xiaomi.
+MinimalKernel is a minimalist, optimized and overclocked kernel designed for maximum efficiency and performance on Xiaomi devices.
 
-## Dispositivos Suportados
+## Supported Devices
 
-- Xiaomi Xun
+-Xiaomi Xun
 - Xiaomi Sapphire
 - Xiaomi Topaz
 
-Compatível com versões Android 13 a 16.
+Compatible with Android versions 13 to 16.
 
-## Características
+## Features
 
-- **Minimalista:** Código enxuto e direto ao ponto, sem funcionalidades desnecessárias.
-- **Overclocked:** Configurações ajustadas para extrair o máximo desempenho do hardware.
-- **Otimizado:** Algoritmos e rotinas refinadas para velocidade e baixo consumo de recursos.
-- **Estável:** Apesar da otimização agressiva, mantém estabilidade para uso contínuo.
+- **Minimalist:** Lean and straight-to-the-point code, without unnecessary features.
+- **Overclocked:** Adjusted settings to extract maximum performance from the hardware.
+- **Optimized:** Refined algorithms and routines for speed and low resource consumption.
+- **Stable:** Despite aggressive optimization, it maintains stability for continuous use.
 
 ## Build & Uso
 

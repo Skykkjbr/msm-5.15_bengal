@@ -1,4 +1,4 @@
-# MinimalKernel - Release: Obanai
+# MinimalKernel - Release: Tony Stark
 
 MinimalKernel is a minimalist, optimized and overclocked kernel designed for maximum efficiency and performance on Xiaomi devices.
 
